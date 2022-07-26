@@ -1,0 +1,7 @@
+exp_dir: experiment-dir
+exp_name: smp
+seed: 1234
+save_code: !!bool True
+plot_table: !!bool True
+#save_dir: out
+#model_save_dir: out/model

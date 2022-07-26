@@ -1,4 +1,4 @@
-# Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing
+# Stochastic Message Passing
 This repository is the official PyTorch implementation of "Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing".
 
 [IEEE TKDE](https://ieeexplore.ieee.org/document/9721559/authors#authors)
